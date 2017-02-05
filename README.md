@@ -10,3 +10,5 @@ Deep Learning 学习笔记
 <br>⑤比sigmoid延迟了饱和期.</br>
 <br>对于softmax函数:</br>
 <br>相当于多分类时的sigmoid.</br>
+## 2017/2/5 避免梯度下降陷入局部极小值的方法
+<br>http://sebastianruder.com/optimizing-gradient-descent/index.html#momentum</br>
