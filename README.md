@@ -12,3 +12,4 @@ Deep Learning 学习笔记
 <br>相当于多分类时的sigmoid.</br>
 ## 2017/2/5 避免梯度下降陷入局部极小值的方法
 <br>http://sebastianruder.com/optimizing-gradient-descent/index.html#momentum</br>
+## 2017/2/8 project1 预测自行车使用情况
